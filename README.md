@@ -16,7 +16,7 @@ httpserver项目使用Linux网络编程知识，在Linux环境下使用C++搭建
 
 ## 反应堆架构
 
-
+![image](https://github.com/jyyn01/httpserver/assets/152191201/8e31cfbc-6c09-4ced-a21f-9afffbb48f81)
 
 
 
@@ -28,7 +28,8 @@ httpserver项目使用Linux网络编程知识，在Linux环境下使用C++搭建
 
 
 
-![](C:\Users\JP\AppData\Roaming\Typora\typora-user-images\image-20240228225543093.png)
+![image](https://github.com/jyyn01/httpserver/assets/152191201/02b628bd-9649-4038-ba79-263bc62ba1e0)
+
 
 ## 使用方法
 
