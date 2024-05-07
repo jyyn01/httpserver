@@ -24,7 +24,7 @@ Buffer::~Buffer()
 
 void Buffer::extendRoom(int size)
 {
-    // 1. 内存够用 - 不需要扩容 //测试是否有改变
+    // 1. 内存够用 - 不需要扩容
     if (writeableSize() >= size)
     {
         return;
